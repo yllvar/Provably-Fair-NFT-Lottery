@@ -1,1 +1,1 @@
-~ contact me for similiar development https://t.me/OxEight33n
+~ 请联系我进行类似的开发 https://t.me/OxEight33n
