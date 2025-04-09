@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/raffle/trigger",
+      "schedule": "0 23 * * *"
+    }
+  ]
+}

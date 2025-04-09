@@ -1,0 +1,1 @@
+{"symbol": "LUCKY", "image": "ipfs://YOUR_PINATA_IMAGE_CID/ticket_image.png", "properties": {"files": [{"uri": "ticket_image.png", "type": "image/png"}]}, "name": "Lucky Ticket #3003 (Tier3)", "description": "NFT Lottery Ticket - Number: 3003 | Tier: Tier3", "attributes": [{"trait_type": "Tier", "value": "Tier3"}, {"trait_type": "Number", "value": "3003"}]}
